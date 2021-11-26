@@ -1,0 +1,8 @@
+2020-04-28 20:27:45,917 - /usr/local/games/cleaner_pdf/mycleaners/base/manual_table.py[line:439] - [ERROR]: 收益率超过0.15，解析出来的num为：4.6
+2020-04-28 20:36:20,720 - /usr/local/games/cleaner_pdf/mycleaners/cleaner_wealth/spdb_cleaner.py[line:108] - [ERROR]: 收益率num_ceil: 0.042或num_floor: 2.637超过0.15
+2020-04-29 08:38:00,629 - /usr/local/games/cleaner_pdf/mycleaners/base/manual_table.py[line:439] - [ERROR]: 收益率超过0.15，解析出来的num为：4.6
+2020-04-29 08:46:32,771 - /usr/local/games/cleaner_pdf/mycleaners/cleaner_wealth/spdb_cleaner.py[line:108] - [ERROR]: 收益率num_ceil: 0.042或num_floor: 2.637超过0.15
+2020-04-29 10:12:27,975 - /usr/local/games/cleaner_pdf/mycleaners/base/manual_table.py[line:439] - [ERROR]: 收益率超过0.15，解析出来的num为：4.6
+2020-04-29 10:21:21,603 - /usr/local/games/cleaner_pdf/mycleaners/cleaner_wealth/spdb_cleaner.py[line:108] - [ERROR]: 收益率num_ceil: 0.042或num_floor: 2.637超过0.15
+2020-04-29 22:23:03,282 - /usr/local/games/cleaner_pdf/mycleaners/base/manual_table.py[line:439] - [ERROR]: 收益率超过0.15，解析出来的num为：4.6
+2020-04-29 22:31:34,630 - /usr/local/games/cleaner_pdf/mycleaners/cleaner_wealth/spdb_cleaner.py[line:108] - [ERROR]: 收益率num_ceil: 0.042或num_floor: 2.637超过0.15
