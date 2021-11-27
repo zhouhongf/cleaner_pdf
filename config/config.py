@@ -27,7 +27,7 @@ class Config:
         'port': 27017,
         'db': GROUP_NAME,
         'username': 'root',
-        'password': 'Zhouhf873@',
+        'password': '123456',
     }
 
 
